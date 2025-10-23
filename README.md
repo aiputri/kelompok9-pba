@@ -7,12 +7,13 @@
 
 ## Deskripsi
 Proyek ini bertujuan untuk menganalisis **persepsi publik terhadap layanan ferry di Indonesia** melalui analisis sentimen dan pengenalan entitas bernama **(NER)** menggunakan teknik pemrosesan bahasa alami **(NLP)**. Dataset berita dikumpulkan dari berbagai portal berita nasional dan telah melalui proses **pembersihan serta prapemrosesan teks** sebelum dianalisis.
+![WhatsApp Image 2025-10-23 at 13 08 30_e9810a70](https://github.com/user-attachments/assets/fedf49ef-395e-4502-89f7-2fc22528d325)
+
 
 ## Fitur Utama
-- **Analisis Sentimen**: Mengidentifikasi sentimen positif, negatif, dan netral dalam berita terkait layanan ferry.
-- **Clustering**: Mengelompokkan berita berdasarkan kesamaan tema menggunakan metode TF-IDF, Bag of Words (BoW), dan Cosine Similarity.
 - **Named Entity Recognition (NER)**: Mengekstrak entitas penting seperti nama perusahaan, organisasi, lokasi, serta tanggal yang muncul dalam teks berita.
 - **Visualisasi**: Menampilkan hasil analisis sentimen, tren berita, serta word cloud untuk kata-kata yang paling sering muncul.
+- **Analisis Sentimen**: Mengidentifikasi sentimen positif, negatif, dan netral dalam berita terkait layanan ferry.
 
 ## Hasil Kuantitatif
 Berdasarkan pengolahan dan analisis dataset berita terkait layanan ferry di Indonesia, dapat disimpulkan bahwa:
