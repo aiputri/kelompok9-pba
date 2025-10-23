@@ -18,8 +18,7 @@ Proyek ini bertujuan untuk menganalisis **persepsi publik terhadap layanan ferry
 Berdasarkan pengolahan dan analisis dataset berita terkait layanan ferry di Indonesia, dapat disimpulkan bahwa:
 - Pemberitaan mengenai layanan ferry bersifat **informatif dan faktual**, dengan dominasi kata benda dan kata kerja yang mencerminkan deskripsi entitas dan tindakan operasional.
 - **Named Entity Recognition (NER)** menunjukkan bahwa fokus pemberitaan banyak pada produk, organisasi, angka, dan tanggal, menegaskan karakter berita yang data-driven.
-- Analisis sentimen menunjukkan bahwa model **Random Forest** menjadi yang terbaik dengan **akurasi 72,09%**, mampu menangkap pola sentimen pada berita yang mayoritas netral dan faktual.
-Model ini lebih efektif dibandingkan baseline maupun model transformer untuk dataset dengan jumlah terbatas dan karakteristik spesifik.  
+- Analisis sentimen menunjukkan bahwa model **Random Forest** menjadi yang terbaik dengan **akurasi 72,09%**, mampu menangkap pola sentimen pada berita yang mayoritas netral dan faktual. Model ini lebih efektif dibandingkan baseline maupun model transformer untuk dataset dengan jumlah terbatas dan karakteristik spesifik.  
   
 
 ## Teknologi yang Digunakan
